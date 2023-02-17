@@ -1,6 +1,6 @@
 # B4X-SocialShare-Library
 
-This is a library to share text in all social apps and not only... I compiled the code into a library and made it a lot easier for me and for everyone to use it. Usage:
+This is a library to share text in all social apps and not only... You can create from the code a b4xlib and make it a lot easier to use it by creating a >>zip<< file adding in there the manifest.txt as well as the SocialShare.bas file and change the extension to b4xlib. Usage:
 
 B4X:
 
